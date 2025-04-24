@@ -6,7 +6,7 @@ En este documento, se expone cómo un proceso tradicional puede mejorarse median
 
 ## 2. Descripción del Proceso Tradicional
 **Situación actual:**  
-la empresa actualmente tiene asignado para atencion al cliente un bot que da unas soluciones predeterminadas dependiendo de cual numero digite el cliente o soluciones predeterminadas hallan en la base de datos, esto no basta para dar una solucion a casos diferentes a los esperados y por parte de el usuario se espera una atencion mas efeciente en el cual se tenga en cuenta su caso especifico
+la empresa actualmente tiene asignado para atencion al cliente un bot que da unas soluciones predeterminadas dependiendo de cual numero digite el cliente o soluciones predeterminadas hallan en la base de datos, esto no basta para dar una solucion a casos diferentes a los esperados y por parte de el usuario se espera una atencion mas efeciente en la cual se tenga en cuenta su caso especifico
 
 **Problemas o limitaciones del método tradicional:**  
 - Soluciones desactualizadas y muy generales  
