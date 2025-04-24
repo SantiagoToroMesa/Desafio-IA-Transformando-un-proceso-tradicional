@@ -8,7 +8,7 @@ En este documento, se expone cómo un proceso tradicional puede mejorarse median
 **Situación actual:**  
 la empresa actualmente tiene asignado para atencion al cliente un bot que da unas soluciones predeterminadas dependiendo de cual numero digite el cliente o soluciones predeterminadas hallan en la base de datos, esto no basta para dar una solucion a casos diferentes a los esperados y por parte de el usuario se espera una atencion mas efeciente en la cual se tenga en cuenta su caso especifico
 
-**Problemas o limitaciones del método tradicional:**  
+**Problemas o limitaciones del método tradicional:** 
 - Soluciones desactualizadas y muy generales  
 - Descontento de los clientes a la atencion brindada
 - perdida de clientes 
@@ -16,7 +16,7 @@ la empresa actualmente tiene asignado para atencion al cliente un bot que da una
 
 ## 3. Propuesta de Solución con IA
 **Objetivo de la solución:**  
-- Automatizar y personalizar el proceso mediante un sistema basado en IA. en el cual se recopile los problemas que se vayan presentando en diferentes casos y en el cual se brinde una atencion personalizada. un problema que veo muy comun es la poca atencion a la recuperacion de cuentas en casos de robo, ya que el algoritmo de recuperacion cuentan con unas condiciones que si no se cumple no se puede seguir el proceso
+- Automatizar y personalizar el proceso mediante un sistema basado en IA. en el cual se recopile los problemas que se vayan presentando en diferentes casos y en el cual se brinde una atencion personalizada. un problema que veo muy comun es la poca atencion a la recuperacion de cuentas en casos de robo, ya que el algoritmo de recuperacion cuentan con unas condiciones que si no se cumplen no se puede seguir el proceso
   
 
 **Descripción de la solución IA:**  
@@ -34,12 +34,12 @@ la empresa actualmente tiene asignado para atencion al cliente un bot que da una
 
 ## 4. Comparativa entre Procesos
 
-| Aspecto                    | Proceso Tradicional              | Solución con IA                         |
+| Aspecto                    | Proceso Tradicional ❗           | Solución con IA ✅                      |
 |----------------------------|----------------------------------|-----------------------------------------|
 | Solucion del problema      | Lento,Muchas solicitudes         | Alta, Una misma solicitud               |
 | Opiniones Positivas        | Bajo                             | Alta                                    |
-| Consistencia de respuestas | Variable                         | Homogénea y mejorada                   |
-| Adaptabilidad              | Limitada                         | Dinámica, con aprendizaje continuo     |
+| Consistencia de respuestas | Variable                         | Homogénea y mejorada                    |
+| Adaptabilidad              | Limitada                         | Dinámica, con aprendizaje continuo      |
 
 ## 5. Reflexión Personal
 
